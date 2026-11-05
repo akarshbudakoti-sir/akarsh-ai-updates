@@ -4,5 +4,5 @@ window.AKARSH_VERSION = {
   "latestVersionName": "4.0.7",
   "minimumVersionCode": 30,
   "minimumVersionName": "4.0.7",
-  "apkDownloadUrl": "https://www.mediafire.com/file/1axb8bcygwybp7q/JARVIS_v4.0.7.apk/file"
+  "apkDownloadUrl": "https://www.mediafire.com/file/7z740l1dj2rqcr8/JARVIS_v4.0.7.apk/file"
 };
