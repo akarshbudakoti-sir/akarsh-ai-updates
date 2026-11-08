@@ -1,8 +1,8 @@
 // Update this file to publish app versions and update links.
 window.AKARSH_VERSION = {
-  "latestVersionCode": 42,
-  "latestVersionName": "5.0.5",
-  "minimumVersionCode": 37,
-  "minimumVersionName": "5.0.0",
-  "apkDownloadUrl": "https://www.mediafire.com/file/p516dy3fmbu4709/JARVIS_v5.0.5.apk/file"
+  "latestVersionCode": 43,
+  "latestVersionName": "5.0.6",
+  "minimumVersionCode": 43,
+  "minimumVersionName": "5.0.6",
+  "apkDownloadUrl": "https://www.mediafire.com/file/y2i25kwjugpl81q/JARVIS_v5.0.6.apk/file"
 };
